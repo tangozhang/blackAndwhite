@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b7719f7-bfc6-4502-bfae-11b02e160747" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/assets/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/assets/egret_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/AnalyzerBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/BinAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/Bitmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/BitmapFillMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/text/BitmapText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/text/BitmapTextSpriteSheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/BlendMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/Browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/ByteArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/renderer/dom/DOMTrans.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Data.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/devices/DeviceContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/DisplayObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/DisplayObjectContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/tween/Ease.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/Event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/EventDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/EventPhase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/external/ExternalInterface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/FontAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/Game.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Game.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/GameOverPanel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GameOverPanel.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/Graphics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/GroupRect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GroupRect.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/renderer/HTML5CanvasRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/devices/HTML5DeviceContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/net/HTML5NetContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/display/HTML5StageText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/interactive/HTML5TouchContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/HTTPStatusEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/HashObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/layout/HorizontalAlign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/text/HtmlTextParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/IEventDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/IHashObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/IOErrorEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/ImageAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/Injector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/text/InputController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/interactive/InteractionMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/JsonAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/LoadingUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/Logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/MainContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/geom/Matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/MovieClip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/net/NetContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/jslib/NumberUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/geom/Point.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/Profiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/ProgressEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/Rect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Rect.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/RectType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RectType.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/geom/Rectangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/Recycler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/renderer/RenderFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/RenderTexture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/renderer/RendererContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/Resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/core/ResourceConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/events/ResourceEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/core/ResourceItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/core/ResourceLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/SAXParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/ScrollView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/Shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/SheetAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/media/Sound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/SoundAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/Sprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/SpriteSheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/Stage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/StageDelegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/StageScaleMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/display/StageText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/TextAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/text/TextField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/text/TextFieldType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/display/Texture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/Ticker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/TiemrPanel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TiemrPanel.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/Timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/TimerEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/interactive/TouchContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/events/TouchEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/tween/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/net/URLLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/net/URLLoaderDataFormat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/net/URLRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/net/URLRequestHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/net/URLRequestMethod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/net/URLVariables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/layout/VerticalAlign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/renderer/WebGLRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/renderer/webgl/WebGLShaderManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/renderer/webgl/WebGLUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/XML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/extension/resource/analyzer/XMLAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blackAndwhite.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build_engine.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/callLater.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/core.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/config/description.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/egretProperties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/lib/egret_file_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launcher/egret_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launcher/egret_require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin-debug/src/game_file_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/getDefinitionByName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/getQualifiedClassName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/getTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/hasDefinition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/html5.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launcher/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/context/localStorage/localStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/module_reference.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launcher/native_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launcher/native_require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launcher/release.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/resource.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launcher/runtime_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/setTimeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/core/egret/utils/toColorString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="blackAndwhite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blackAndwhite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackAndwhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackAndwhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackAndwhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackAndwhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blackAndwhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b7719f7-bfc6-4502-bfae-11b02e160747" name="Default" comment="" />
+      <created>1425527328033</created>
+      <option name="number" value="Default" />
+      <updated>1425527328033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32901832" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
